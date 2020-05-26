@@ -20,7 +20,6 @@ Super simple: Open an issue with a question and I'll respond. Doesn't have to be
 
 ## What else? 
 
-Some previous presentations: https://www.slideshare.net/jasoncwarner
-
-Writings on Leadership: https://medium.com/@jasonwarner
+- Some previous presentations: https://www.slideshare.net/jasoncwarner
+- Writings on Leadership: https://medium.com/@jasonwarner
 

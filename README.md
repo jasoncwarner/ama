@@ -13,6 +13,10 @@ Jason Warner, current CTO of GitHub and previously VP Engineering at Heroku, Can
 
 Anything really. Leadership, scaling systems, scaling engineering or product organizations, building product, developers, the future of software, leadership, parenting...whatever....let's see where this goes. 
 
+## How does it work? 
+
+Super simple: Open an issue with a question and I'll respond. Doesn't have to be super long or anything. Feel free to be specific or broad. 
+
 
 ## What else? 
 

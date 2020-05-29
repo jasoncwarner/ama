@@ -4,7 +4,7 @@
 
 ## Who am I? 
 
-Jason Warner, current CTO of GitHub and previously VP Engineering at Heroku, Canonical (people who make Ubuntu linux) and various startups. 
+Jason Warner, current CTO of GitHub and previously VP Engineering at Heroku, Canonical (people who make Ubuntu Linux) and various startups. 
 
 - Twitter: https://twitter.com/jasoncwarner
 - LinkedIn: https://www.linkedin.com/in/jcwarner/

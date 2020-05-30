@@ -17,6 +17,8 @@ Anything really. Leadership, scaling systems, scaling engineering or product org
 
 Super simple: Open an issue with a question and I'll respond. Doesn't have to be super long or anything. Feel free to be specific or broad. 
 
+**NEW** - [Anonymous Question Link](https://forms.gle/5a3b7oJS7MQTJKTi6) - Ask a question anonymously, I'll port it over. 
+
 
 ## What else? 
 
